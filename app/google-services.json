@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "71849592978",
+    "firebase_url": "https://dasha-ec771.firebaseio.com",
+    "project_id": "dasha-ec771",
+    "storage_bucket": "dasha-ec771.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71849592978:android:fcfef757a832647b",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71849592978-1lcs9dqjud1q20hvt4q7os20vi0f495t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHehNb9sSov8DMwIKArfX-hjtr4DHWhsM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
